@@ -142,10 +142,9 @@ body {
   .exercise-card {
     width: 280px;
   }
-  .css-1kicirb-MuiTypography-root {
-    font-size: 20px!important;
-  
-  }
+  h3.MuiTypography-root.MuiTypography-h3.css-19hudxx {
+    font-size: 2rem!important;
+}
   .exercise-video {
     padding-top: 4%;
   }
